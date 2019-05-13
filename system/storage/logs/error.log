@@ -1,0 +1,2 @@
+2019-05-10 0:15:20 - PHP Warning:  PDOStatement::execute(): MySQL server has gone away in E:\OpenServer\domains\opencart\system\library\db\mpdo.php on line 57
+2019-05-10 0:15:20 - PHP Warning:  PDOStatement::execute(): Error reading result set's header in E:\OpenServer\domains\opencart\system\library\db\mpdo.php on line 57
